@@ -1,101 +1,44 @@
 {
   "project_info": {
-    "project_number": "184930218130",
-    "firebase_url": "https://api-7231322553409637977-752355.firebaseio.com",
-    "project_id": "api-7231322553409637977-752355",
-    "storage_bucket": "api-7231322553409637977-752355.appspot.com"
+    "project_number": "893573214060",
+    "project_id": "water-care-256708",
+    "storage_bucket": "water-care-256708.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:184930218130:android:a0e553d1a1f043b5",
+        "mobilesdk_app_id": "1:893573214060:android:ee85dcadc069192576cd49",
         "android_client_info": {
-          "package_name": "com.mattermost.react.native"
+          "package_name": "chat.vigstudio.watercare"
         }
       },
       "oauth_client": [
         {
-          "client_id": "184930218130-8nahrspll1opff0uogtkh2qsv8coqngo.apps.googleusercontent.com",
+          "client_id": "893573214060-dt8d1p9a94f1jvphug4gnp4522ofttf3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCkZkU2ECVg-mmdCG5OoHHQXtKiENuvWPE"
+          "current_key": "AIzaSyCPLPVrJ5WdTSzowtDP-PoaujSoEIEYYug"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 2
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:184930218130:android:c7debfa7ea3f75a7",
-        "android_client_info": {
-          "package_name": "com.mattermost.rnbeta"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "184930218130-8nahrspll1opff0uogtkh2qsv8coqngo.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCkZkU2ECVg-mmdCG5OoHHQXtKiENuvWPE"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 2
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:184930218130:android:2db4058a5b5d6506",
-        "android_client_info": {
-          "package_name": "com.mattermost.rn"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "184930218130-8nahrspll1opff0uogtkh2qsv8coqngo.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCkZkU2ECVg-mmdCG5OoHHQXtKiENuvWPE"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 2
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893573214060-dt8d1p9a94f1jvphug4gnp4522ofttf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893573214060-o2m6ti6nemjj5p0dj93nistcbh2kvtnd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "chat.vigstudio.watercare",
+                "app_store_id": "1609719174"
+              }
+            }
+          ]
         }
       }
     }
