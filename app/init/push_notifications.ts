@@ -273,7 +273,7 @@ class PushNotifications {
                 prefix = Device.PUSH_NOTIFY_ANDROID_REACT_NATIVE;
             }
 
-            storeDeviceToken(`${prefix}-v2:${deviceToken}`);
+            storeDeviceToken(`${prefix}:${deviceToken}`);
 
             // Store the device token in the default database
             this.requestNotificationReplyPermissions();
